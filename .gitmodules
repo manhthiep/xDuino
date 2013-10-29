@@ -1,0 +1,15 @@
+[submodule "LinkDuino"]
+	path = LinkDuino
+	url = https://github.com/Squonk42/LinkDuino.git
+[submodule "DuinoMite"]
+	path = DuinoMite
+	url = https://github.com/OLIMEX/DuinoMite.git
+[submodule "RxDuino"]
+	path = RxDuino
+	url = https://github.com/paimonsoror/RxDuino.git
+[submodule "324Duino"]
+	path = 324Duino
+	url = https://github.com/kopfkopfkopfaffe/324duino.git
+[submodule "BareDuino"]
+	path = BareDuino
+	url = https://github.com/niekproductions/BareDuino.git
