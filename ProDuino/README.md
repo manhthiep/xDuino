@@ -1,4 +1,4 @@
-xDuino
+ProDuino
 ======
 
 ProDuino - Arduino-compatible board without USB port.
