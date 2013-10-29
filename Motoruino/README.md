@@ -1,4 +1,4 @@
-xDuino
+Motoruino
 ======
 
 The Motoruino is a board based on the Arduino platform, it is designed to work with motors, servos and sensors.
