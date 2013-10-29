@@ -1,0 +1,22 @@
+EDuino-B version 1
+Copyright (c) Nuno João a.k.a Njay (http://EmbeddedDreams.com)
+Copyright (c) 2009
+
+This work is licensed under Creative Commons BY NC SA; read it
+at http://creativecommons.org/licenses/by-nc-sa/3.0/ .
+
+
+Parts list
+==========
+
+C1,C2	2x	100nF capacitor, SMD 1206
+C3,C4	2x	22pF capacitor, SMD 1206
+R1	1x	33K resistor, SMD 1206
+R2	1x	1K resistor, SMD 1206
+X1	1x	16MHz low profile crystal
+	1x	IC socket DIP28
+U1	1x	ATmega8, ATmega168 or ATmega328 with Arduino bootloader
+D1	1x	3mm round yellow LED
+SW1	1x	mini push switch button
+J1-J4	1x	26 pin male header
+
