@@ -1,4 +1,4 @@
-xDuino
+RPiDuino
 ======
 
 RPiDuino - Raspberry Pi extension board which is compatible with Arduino
