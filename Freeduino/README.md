@@ -1,8 +1,8 @@
-xDuino
+Freeduino
 ======
 
 From: [Freeduino Open Designs](http://www.freeduino.org/freeduino_open_designs.html)
----------
+
 
 Freeduino is a collaborative open-source project to replicate and publish Arduino-compatible hardware files. The Freeduino Eagle SCH, BRD and Gerber production files allow users to create boards that are 100% functionally, electrically and physically compatible with Arduino hardware.
 
