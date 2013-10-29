@@ -1,10 +1,7 @@
-xDuino
+Freeduino MaxSerial (by Fundamental Logic)
 ======
 
 From: [Freeduino Open Designs](http://www.freeduino.org/freeduino_open_designs.html)
----------
-
-Freeduino MaxSerial (by Fundamental Logic)
 
 V1.2
 -------
