@@ -1,10 +1,7 @@
-xDuino
+Freeduino Serial (by NKC Electronics)
 ======
 
 From: [Freeduino Open Designs](http://www.freeduino.org/freeduino_open_designs.html)
----------
-
-Freeduino Serial (by NKC Electronics)
 
 V1.0
 ---------
