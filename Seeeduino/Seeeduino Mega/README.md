@@ -1,4 +1,4 @@
-xDuino
+Seeeduino Mega
 ======
 
 Seeeduino Mega is a powerful microcontroller derived from Arduino Mega. It features ATmega2560 processor which brings a 
