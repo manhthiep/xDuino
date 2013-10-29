@@ -1,18 +1,16 @@
-xDuino
+Sanguino
 ======
 
-sanguine -adjective
+What is Sanguino?
 --------
-1. cheerfully optimistic, hopeful, or confident: a sanguine disposition; sanguine expectations.
-2. blood-red; red.
+sanguine -adjective
+- cheerfully optimistic, hopeful, or confident: a sanguine disposition; sanguine expectations.
+- blood-red; red.
 
 sanguino -noun
---------
-1. a fun microcontroller board inspired by the awesome Arduino project
-2. a red colored microcontroller board based on the ATmega644P
-3. italian - I'm bleeding! (ed. -oops. thanks for the heads up, google translate! </sarcasm>)
-
-The Sanguino is based on the atmega644P chip.
+- a fun microcontroller board inspired by the awesome Arduino project
+- a red colored microcontroller board based on the ATmega644P
+- italian - I'm bleeding! (ed. -oops. thanks for the heads up, google translate! </sarcasm>)
 
 Why make the Sanguino?
 --------
@@ -33,6 +31,6 @@ Designing your own board is fun and informative.
 
 --------
 More info: 
-http://sanguino.cc/start
-http://sanguino.cc/makeyourown
-http://sanguino.cc/hardware
+- http://sanguino.cc/start
+- http://sanguino.cc/makeyourown
+- http://sanguino.cc/hardware
