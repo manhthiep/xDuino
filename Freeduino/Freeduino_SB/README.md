@@ -1,10 +1,7 @@
-xDuino
+Freeduino SB (by HVW Tech/Solarbotics)
 ======
 
 From: [Freeduino Open Designs](http://www.freeduino.org/freeduino_open_designs.html)
----------
-
-Freeduino SB (by HVW Tech/Solarbotics)
 
 V2.1
 ---------
